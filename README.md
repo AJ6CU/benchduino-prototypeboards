@@ -27,4 +27,4 @@ greater than 100mm x 100mm. Perhaps someone wants to rework it into a 2 layer bo
 Mark Hatch
 AJ6CU
 
-<img style='width: 600px' src="./benchduino-protoboard-highlights">
+<img style='width: 600px' src="file://benchduino-protoboard-highlights"/>
