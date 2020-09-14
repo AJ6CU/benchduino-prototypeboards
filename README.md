@@ -20,8 +20,7 @@ Subdirectories include:
 
 There is absolutely no warranty here. Use this at your own risk!
 
-BTW: JCLPCB charges a $35 engineering fee for this board because it is 4 layer and
-greater than 100mm x 100mm. Perhaps someone wants to rework it into a 2 layer board?
+This branch is for the design of a 2 layer version of the original prototype board.
 
 73
 Mark Hatch
