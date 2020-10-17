@@ -9,8 +9,8 @@ able to expand it on your system and open up the project file and start modifyin
 
 There is absolutely no warranty here. Use this at your own risk!
 
-BTW: JCLPCB charges a $35 engineering fee for this board because it is 4 layer and
-greater than 100mm x 100mm. Perhaps someone wants to rework it into a 2 layer board?
+This is now a 2 layer board and much less expensive to get produced. For example, 
+JLCPCB only charged me $8.50 for 5 boards.
 
 73
 Mark Hatch

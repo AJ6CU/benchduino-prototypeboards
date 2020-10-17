@@ -10,8 +10,8 @@ Fab house.
 
 There is absolutely no warranty here. Use this at your own risk!
 
-BTW: JCLPCB charges a $35 engineering fee for this board because it is 4 layer and
-greater than 100mm x 100mm. Perhaps someone wants to rework it into a 2 layer board?
+This is now a 2 layer board and much less expensive to produce. Although JLCPCB will still 
+charge a small engineering fee, I was able to purchase 5 boards for $8.50 (USD)
 
 73
 Mark Hatch
